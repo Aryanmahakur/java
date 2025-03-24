@@ -1,0 +1,1 @@
+  String name = sc.nextLine(); // Reading user input
