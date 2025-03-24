@@ -38,4 +38,4 @@ class java2 {
     }
 }
 a
-ff
+ffa
