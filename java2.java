@@ -37,3 +37,5 @@ class java2 {
         sc.close(); // Closing Scanner
     }
 }
+
+ff
