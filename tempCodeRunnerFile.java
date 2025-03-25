@@ -1,1 +1,1 @@
-  String name = sc.nextLine(); // Reading user input
+ // int[]marks=new int[5];

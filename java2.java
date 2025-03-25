@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-class java2 {
+// Class for Day Switch Program
+class DayFinder {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
@@ -37,3 +38,19 @@ class java2 {
         sc.close(); // Closing Scanner
     }
 }
+
+// Class for Factorial Using Recursion
+class RecursionExample {
+    // Recursive method to calculate factorial
+    static int factorial(int n) {
+        if (n == 0)  // Base case
+            return 1;
+        return n * factorial(n - 1); // Recursive call
+    }
+
+    public static void main(String[] args) {
+        int num = 5;
+        System.out.println("Factorial of " + num + " is " + factorial(num));
+    }
+}
+
