@@ -1,1 +1,1 @@
- // int[]marks=new int[5];
+InheritanceExample
